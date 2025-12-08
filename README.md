@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 </p>
 
-<h1 align="center">Hi there, I'm Muhammad Rizki Saputra 👋</h1>
+<h1 align="center">Hello, I'm Muhammad Rizki Saputra 👋</h1>
 
 <h2 align="center" style="color:#00eaff;">BackEnd Developer & Pentesting</h2>
 
@@ -20,12 +20,12 @@ Open to collaboration on security research, monitoring tools, and back end devel
 <p>
 <a href= "https://www.instagram.com/kaiiriz._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href= "https://www.linkedin.com/in/muhammad-rizki-saputra-70b676330/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href= "mailto:rizkibae106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href= "rizkibae106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Language & Tools
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,12 +35,9 @@ Open to collaboration on security research, monitoring tools, and back end devel
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/Parrot_Security-15E0FF?style=for-the-badge&logo=parrotsecurity&logoColor=black">
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white">
@@ -69,6 +66,7 @@ Open to collaboration on security research, monitoring tools, and back end devel
 
 ---
 
+### Lets Play Game With Me ><
 <br clear="both">
 
 <picture>
@@ -77,4 +75,3 @@ Open to collaboration on security research, monitoring tools, and back end devel
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RizzProject/RizzProject/output/pacman-contribution-graph.svg">
 </picture>
 
-###
