@@ -56,6 +56,10 @@ Open to collaboration on security research, monitoring tools, and back end devel
 
 <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=RizzProject&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizzProject&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 </div>
 
 ---
@@ -64,6 +68,7 @@ Open to collaboration on security research, monitoring tools, and back end devel
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizzProject&theme=react-dark&hide_border=true">
 
+ <img src="https://streak-stats.demolab.com?user=RizzProject&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 ---
 
 ### Lets Play Game With Me ><
