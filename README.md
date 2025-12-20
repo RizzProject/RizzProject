@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  
+</div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 </p>
@@ -55,9 +59,9 @@ Open to collaboration on security research, monitoring tools, and back end devel
 <div align="center">
 
 <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=RizzProject&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</div>
 
-
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizzProject&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 </div>
@@ -69,7 +73,7 @@ Open to collaboration on security research, monitoring tools, and back end devel
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizzProject&theme=react-dark&hide_border=true">
 
  <img src="https://streak-stats.demolab.com?user=RizzProject&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
----
+
 
 ### Lets Play Game With Me ><
 <br clear="both">
