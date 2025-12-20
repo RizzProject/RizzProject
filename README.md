@@ -1,6 +1,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-  
+
 </div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
@@ -75,6 +75,7 @@ Open to collaboration on security research, monitoring tools, and back end devel
  <img src="https://streak-stats.demolab.com?user=RizzProject&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 
+
 ### Lets Play Game With Me ><
 <br clear="both">
 
@@ -84,3 +85,6 @@ Open to collaboration on security research, monitoring tools, and back end devel
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RizzProject/RizzProject/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RizzProject.RizzProject&"  />
+</div>
